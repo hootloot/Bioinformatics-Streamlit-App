@@ -27,3 +27,6 @@ def cs_body():
     st.text_input('Enter your target protien: ')
     st.info('Example: Cornavirus')
     
+#INFO:
+# https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py CHEAT SHEET
+# https://streamlit.io GALLERY
