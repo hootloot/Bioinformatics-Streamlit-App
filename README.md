@@ -1,4 +1,4 @@
-### Notes:
+### BIOINFORMATICS RM PROJECTS Notes:
 
 - research RNA DNA CORNA SEQUENCES< THIS WORK FOR OTHER VIRUSES?
 - work and finish target protein analysis / this part is the Streamlit app 
