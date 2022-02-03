@@ -18,3 +18,6 @@ Fri: Work on RNA DNA
 Sat: Work on journal / work on RNA DNA 
 Sun: Work on presentation 
 Mon: Done
+
+### resources:
+- https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub
