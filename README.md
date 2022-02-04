@@ -1,5 +1,7 @@
 ### BIOINFORMATICS RM PROJECTS Notes:
 
+##### Bigger the data set --on chemb, more better it is, more data to work with
+
 - research RNA DNA CORNA SEQUENCES< THIS WORK FOR OTHER VIRUSES?
 - work and finish target protein analysis / this part is the Streamlit app (does all the parts work under one file, or two files? (also access github through google colab))
 - work on data / conc. (Do I have enough pictures)
