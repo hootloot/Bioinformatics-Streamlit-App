@@ -40,11 +40,6 @@ Rules:
 - Hydrogen bond donors < 5
 - Hydrogen bond acceptors < 10
 
-PART 3:
-
-PART 4:
-
-PART 5:
 
 #### THE DATA PRESENTED:
 
@@ -77,4 +72,5 @@ Part 6:
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
 
 ### resources:
-- https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub
+- https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub *uploading to github from google colab*
+- https://github.com/geohot/corona *RNA sequence anaylsis? (unknown)*
