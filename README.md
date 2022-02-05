@@ -1,4 +1,4 @@
-### BIOINFORMATICS RM PROJECTS Notes:
+# BIOINFORMATICS RM PROJECTS Notes:
 
 - Fri: Finish the software part, to makework with target protiens other than *ace*. Change target protien manually within code.
 - Sat: Work on conculsion, honest to god just bullshit the fuck outta this one
