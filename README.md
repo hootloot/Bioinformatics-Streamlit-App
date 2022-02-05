@@ -1,16 +1,7 @@
 ### BIOINFORMATICS RM PROJECTS Notes:
 
-##### Bigger the data set --on chemb, more better it is, more data to work with
-
-- research RNA DNA CORNA SEQUENCES< THIS WORK FOR OTHER VIRUSES?
-- work and finish target protein analysis / this part is the Streamlit app (does all the parts work under one file, or two files? (also access github through google colab))
-- work on data / conc. (Do I have enough pictures)
-- work on journal 
-- work on video
-
-- Thu: Work on Data Essay (try to do as much as you can)
-- Fri: Work on Data Essay (try to finish)
-- Sat: Work on finishing the application (Working on all parts work together in software)
+- Fri: Finish the software part, to makework with target protiens other than *ace*. Change target protien manually within code.
+- Sat: Work on conculsion, honest to god just bullshit the fuck outta this one
 - Sun: Work on finishing the application (Working on streamlit app, connecting all)
 - Mon: Finish the application (Finish streamlit app, connecting all)
 - Tue: Finish Data Essay (work on application if needed)
@@ -42,36 +33,9 @@ Rules:
 - Hydrogen bond donors < 5
 - Hydrogen bond acceptors < 10
 
-
-#### THE DATA PRESENTED:
-
-INTRO (explain what everything this)
-
-Part 1: 
-- IC5O information, show table (Show all Three)
---> Explain what IC50 is, standerd_value, why this is important
-
-Part 2:
-- Exploratory data on active, inactive and intermediate data
---> Explain what these terms mean (SHOW ALL THREE)
-
-Part 4:
-- Model desc. (SHOW ONE)
-
-Part 5:
-- Mutiple model comparisions / show table information as well 
-- (SHOW ALL THREE)
-
-Part 6:
-- This part is unknown if I will do it
-- RNA 3D model 
-- Show canconical smiles
-- Create streamlit app to present the data better (you can work on this) 
---> Pictures of streamlit app
-
-
 ### NOTES:
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
+- For data anaylsis paper, you need images (both cor and hep) of the model predictions. Prediction vs Experimental pIC50 values. 
 
 ### resources:
 - https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub *uploading to github from google colab*
