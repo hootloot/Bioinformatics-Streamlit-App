@@ -1,9 +1,9 @@
 # BIOINFORMATICS/CHEMINFORMATICS ON TARGET PROTIENS pIC50 VALUES
 
-## Background
+## 💭Background
 Using code from *data professor Chanin Nantasenamt* that uses machine learning models for the target protien *acetylcholinesterase*, looking at pIC50 values. I will use this code to provide visual graphs for the data bioactivty analysis on a causal bioinformatics streamlit app so anyone can do bioinformatics on any target protien on their choice (involes cheminformatics). Includes further RNA and DNA analysis on the target protien (bioinformatics). 
 
-## Information
+## 🧬Information
 
 **Remember, when choosing your target protien from the ChemBL database, it should ideally be a large dataset. The larger the dataset is, the better**
 #### PART 1:
@@ -27,14 +27,14 @@ Rules of LD:
 - Hydrogen bond donors < 5
 - Hydrogen bond acceptors < 10
 
-### Work to be done
+### 🛠️Work to be done
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
 - For data anaylsis paper, you need images (both cor and hep) of the model predictions. Prediction vs Experimental pIC50 values. 
 - RNA and DNA analysis
 - Get genome from GenBank, convert and translate to identify and annotate functions for all the protiens encoded from the genome. (Needs more biology research)
 - OpenMM molecular simulation of protien folding??
 
-### Resources:
+### 🏗️Resources:
 - https://github.com/dataprofessor/bioinformatics_freecodecamp (dataprofessor acetylcholinesterase data)
 - https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub *uploading to github from google colab*
 - https://github.com/geohot/corona *RNA sequence anaylsis? (unknown)*
