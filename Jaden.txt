@@ -1,0 +1,32 @@
+Go to model.ipynb file. You don't need to know everything, just the 2nd block of code. 
+
+In the second block, go to the line where it says: 
+
+target = new_client.target
+target_query = target.search('acetylcholinesterase')
+
+refer to this part as X
+
+
+and take note of the section of code in the second block:
+
+selected_target = targets.target_chembl_id[0]
+
+refer to this part as Y
+
+
+This overall part of the program goes into a database and collects data, in X, 'acetylcholinesterase' was the search term (so it can be replaced etc).
+
+In Y, the '[0]' part is just the index, this part you don't really need to understand. 
+
+Just both 'acetylcholinesterase' and the int in '[0]', I am trying to make it 'filled in' by user input on the streamlit front-end. 
+
+However the process should go, X input, Y input, then searches on the database. However when I tried doing this on streamlit it went, X input, runs the code and searches, missing Y input error, ya know?
+
+If you can fix this issue thanks. 
+
+Resources to use:
+- (text input in streamlit) https://docs.streamlit.io/library/api-reference/widgets/st.text_input
+- (example app) https://share.streamlit.io/jkanner/streamlit-dataview/master/app.py/+/
+- (source code) https://github.com/jkanner/streamlit-dataview/blob/master/app.py
+- (my base app) https://github.com/hootloot/Bioinformatics-Streamlit-App/blob/main/app.py
