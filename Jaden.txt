@@ -25,8 +25,12 @@ However the process should go, X input, Y input, then searches on the database. 
 
 If you can fix this issue thanks. 
 
+
 Resources to use:
 - (text input in streamlit) https://docs.streamlit.io/library/api-reference/widgets/st.text_input
+
 - (example app) https://share.streamlit.io/jkanner/streamlit-dataview/master/app.py/+/
+
 - (source code) https://github.com/jkanner/streamlit-dataview/blob/master/app.py
+
 - (my base app) https://github.com/hootloot/Bioinformatics-Streamlit-App/blob/main/app.py
