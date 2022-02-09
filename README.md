@@ -1,4 +1,4 @@
-# Machine Learning Analysis on Target Protiens for Drug Discovery
+# Machine Learning Analysis on Target Protiens for Drug Discovery 
 
 ## 💭Background
 Using code from *data professor Chanin Nantasenamt* that uses machine learning models for the target protien *acetylcholinesterase*, looking at pIC50 values. I will use this code to provide visual graphs for the data bioactivty analysis on a causal bioinformatics streamlit app so anyone can do bioinformatics on any target protien on their choice (involes cheminformatics). Includes further RNA and DNA analysis on the target protien (bioinformatics). 
