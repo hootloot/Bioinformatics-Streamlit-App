@@ -40,10 +40,10 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 ### 🛠️Further Research
 - https://www.google.com/search?q=3D+descriptor+calculations&sourceid=chrome&ie=UTF-8 (3D descriptor calculations)
 - https://www.google.com/search?q=hyperparameter+optimization&sourceid=chrome&ie=UTF-8 (hyperparameter optimization)
-- Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
 - For data anaylsis paper, you need images (both cor and hep) of the model predictions. Prediction vs Experimental pIC50 values. 
-- RNA and DNA analysis
-- Get genome from GenBank, convert and translate to identify and annotate functions for all the protiens encoded from the genome. (Needs more biology research)
+- Finish conculsion 
+- Work on improving explanations within research paper and experimental desgin paper
+- Get genome from GenBank, convert and translate to identify and annotate functions for all the protiens encoded from the genome. (Needs more biology research) (RNA / DNA analysis)
 - OpenMM molecular simulation of protien folding??
 
 ### 🏗️Resources:
