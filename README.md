@@ -27,6 +27,14 @@ Rules of LD:
 - Hydrogen bond donors < 5
 - Hydrogen bond acceptors < 10
 
+#### PART 4:
+The regression model will allow us to predict the pIC50 value which is the degree at which a molecule can inhibit or not inhibit the target protein of interest (if it can inhibit with potently then it can be a good drug candidate. Afterwards, they will need to be subjected to further scrutiny such as their pharmacokinetic profiles (ADMET properties encompassing the properties of molecules pertaining to Absorption, Distribution, Metabolism, Excretion and Toxicity).
+
+The scatter plot between experimental and predicted pIC50 will allow us to visually see the correlation between the 2 variables. Ideally, a perfect prediction with 100% Accuracy would show all data points to fall on the trend line. In a practical setting, the residuals or errors (taking the predicted values and subtracting it from the experimental or actual values give us the residual or error values) would cause data points to fall either above or below the trend line (essentially the variance).
+
+A good molecule would have a very high pIC50 value (normally higher than 6 is considered to be good). It should be noted that "good" in this context refers to strong inhibition of the target protein of interest. In a practical setting, a good molecule in addition to strong inhibition of the target protein of interest it should also possess favorable 
+"pharmacokinetic profiles" (the various molecular properties pertaining to the absorption, distribution, metabolism, excretion and toxicity of a drug). Thus, ideally, a ideal drug would have strong inhibition and good pharmacokinetic profiles. In practice, this is essentially an optimization problem and it is rather challenging to find such a molecule. Thus, in the real world setting, we have drugs that are potent but also lead to side effects in patients.
+
 ### 🛠️Work to be done
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
 - For data anaylsis paper, you need images (both cor and hep) of the model predictions. Prediction vs Experimental pIC50 values. 
