@@ -36,7 +36,9 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 "pharmacokinetic profiles" (the various molecular properties pertaining to the absorption, distribution, metabolism, excretion and toxicity of a drug). Thus, ideally, a ideal drug would have strong inhibition and good pharmacokinetic profiles. In practice, this is essentially an optimization problem and it is rather challenging to find such a molecule. Thus, in the real world setting, we have drugs that are potent but also lead to side effects in patients.
 --> pIC50 values are inversely proportional to the IC50 values thus high IC50 (corresponding to low pIC50) values are favorable bioactivity for inhibiting the target protein. Toxicity is another parameter that can be evaluated separately.
 
-### 🛠️Work to be done
+### 🛠️Further Research
+- https://www.google.com/search?q=3D+descriptor+calculations&sourceid=chrome&ie=UTF-8 (3D descriptor calculations)
+- https://www.google.com/search?q=hyperparameter+optimization&sourceid=chrome&ie=UTF-8 (hyperparameter optimization)
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
 - For data anaylsis paper, you need images (both cor and hep) of the model predictions. Prediction vs Experimental pIC50 values. 
 - RNA and DNA analysis
@@ -47,3 +49,4 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 - https://github.com/dataprofessor/bioinformatics_freecodecamp (dataprofessor acetylcholinesterase data)
 - https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub *uploading to github from google colab*
 - https://github.com/geohot/corona *RNA sequence anaylsis? (unknown)*
+- https://www.youtube.com/watch?v=wGaGm0sj04M (Part 4)
