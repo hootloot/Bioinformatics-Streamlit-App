@@ -34,6 +34,7 @@ The scatter plot between experimental and predicted pIC50 will allow us to visua
 
 A good molecule would have a very high pIC50 value (normally higher than 6 is considered to be good). It should be noted that "good" in this context refers to strong inhibition of the target protein of interest. In a practical setting, a good molecule in addition to strong inhibition of the target protein of interest it should also possess favorable 
 "pharmacokinetic profiles" (the various molecular properties pertaining to the absorption, distribution, metabolism, excretion and toxicity of a drug). Thus, ideally, a ideal drug would have strong inhibition and good pharmacokinetic profiles. In practice, this is essentially an optimization problem and it is rather challenging to find such a molecule. Thus, in the real world setting, we have drugs that are potent but also lead to side effects in patients.
+--> pIC50 values are inversely proportional to the IC50 values thus high IC50 (corresponding to low pIC50) values are favorable bioactivity for inhibiting the target protein. Toxicity is another parameter that can be evaluated separately.
 
 ### 🛠️Work to be done
 - Change the target proten to be different and test them out, cornavirus, etc (other target protiens, look at the chembl website search for target protien)
