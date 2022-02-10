@@ -44,6 +44,19 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 - Finish conculsion 
 - Work on improving explanations within research paper and experimental desgin paper
 - Get genome from GenBank, convert and translate to identify and annotate functions for all the protiens encoded from the genome. (Needs more biology research) (RNA / DNA analysis)
+- Work on Journal
+- Work on presentation and video
+
+### Further Work to Be Done
+SAT WILL HAVE RESEARCH
+- Finish data anaylsis paper, final paragraph. 
+- Finish Conculsion. 
+- Improve explanations within the research paper and experimental desgin paper. 
+SUNDAY
+- Work on journal (Buy a journal)
+- Work on Presentation
+- Work on video
+
 - OpenMM molecular simulation of protien folding??
 
 ### 🏗️Resources:
