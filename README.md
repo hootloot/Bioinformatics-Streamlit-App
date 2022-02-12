@@ -48,15 +48,9 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 - Work on presentation and video
 
 ### Further Work to Be Done
-SAT WILL HAVE RESEARCH
-- Finish data anaylsis paper, final paragraph. 
-- Finish Conculsion. 
-- Improve explanations within the research paper and experimental desgin paper. 
-SUNDAY
-- Work on journal (Buy a journal)
-- Work on Presentation
-- Work on video
-
+- rdkit 3D/2D molecular model
+- RNA and DNA analysis
+- rdkit more research
 - OpenMM molecular simulation of protien folding??
 
 ### 🏗️Resources:
