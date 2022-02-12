@@ -1,4 +1,4 @@
-# Machine Learning Analysis on Target Protiens for Drug Discovery 
+# Machine Learning Analysis on Target Protiens for Drug Discovery QSAR
 
 ## 💭Background
 Using code from *data professor Chanin Nantasenamt* that uses machine learning models for the target protien *acetylcholinesterase*, looking at pIC50 values. I will use this code to provide visual graphs for the data bioactivty analysis on a causal bioinformatics streamlit app so anyone can do bioinformatics on any target protien on their choice (involes cheminformatics). Includes further RNA and DNA analysis on the target protien (bioinformatics). 
@@ -54,6 +54,7 @@ A good molecule would have a very high pIC50 value (normally higher than 6 is co
 - OpenMM molecular simulation of protien folding??
 
 ### 🏗️Resources:
+- https://youtu.be/3AqQn94KVZU (Data Science for Bioinformatics)
 - https://github.com/dataprofessor/bioinformatics_freecodecamp (dataprofessor acetylcholinesterase data)
 - https://stackoverflow.com/questions/63427607/python-upload-files-directly-to-github-using-pygithub *uploading to github from google colab*
 - https://github.com/geohot/corona *RNA sequence anaylsis? (unknown)*
